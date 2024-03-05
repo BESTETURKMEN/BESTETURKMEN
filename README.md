@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BESTETURKMEN
 - 👀 I’m interested in Html,Css,Javascript, React, Python
 - 🌱 I’m currently learning React
-- 📫 How to reach me berikabeste.turkmen@gmail.com
+- 📫 berikabeste.turkmen@gmail.com
 
 <!---
 BESTETURKMEN/BESTETURKMEN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
