@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BESTETURKMEN
-- 👀 I’m interested in Javascript, React, Python
+- 👀 I’m interested in Html,Css,Javascript, React, Python
 - 🌱 I’m currently learning React
 - 📫 How to reach me berikabeste.turkmen@gmail.com
 
