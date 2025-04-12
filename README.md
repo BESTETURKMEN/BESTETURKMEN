@@ -1,5 +1,5 @@
 -  Hi, I’m @BESTETURKMEN
--  I’m interested in Html,Css,Javascript, React, Python
+-  I’m interested in Html,Css,Javascript, React,Node.js
 -  berikabeste.turkmen@gmail.com
 
 <!---
